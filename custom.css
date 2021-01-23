@@ -114,4 +114,7 @@ footer>div{
     .first .text, .second .text{
         border: none!important;
     }
+    .second{
+        flex-direction: column-reverse;
+    }
   }
