@@ -102,9 +102,6 @@ footer>div{
     .slick-prev{
         left: -3px!important;
     }
-    .image img{
-        width: 15%;
-    }
     footer>div{
         justify-content: center;
     }
@@ -116,5 +113,8 @@ footer>div{
     }
     .second{
         flex-direction: column-reverse;
+    }
+    .image img{
+        width: 15%;
     }
   }
